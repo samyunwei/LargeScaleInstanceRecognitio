@@ -1,0 +1,3 @@
+[submodule "third_tools/ezSIFT"]
+	path = third_tools/ezSIFT
+	url = https://github.com/robertwgh/ezSIFT.git
